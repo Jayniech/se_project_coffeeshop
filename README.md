@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+A way to improve this webpage would be to add more animation. It would be nice to see the title at the top of the page to phase onto the page in some way. It would also be nice to have the circles rotate on the Book a table page.

@@ -26,16 +26,13 @@
 .header__span-accent {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
-  font-size: 60px;
-  line-height: 72px;
   display: block;
   color: #3f96f3;
 }
 
 .header__description {
   max-width: 683px;
-  margin-top: 28px;
-  margin-left: 80px;
+  margin: 28px 0 0 80px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
@@ -53,7 +50,7 @@
 .header__footer {
   display: flex;
   justify-content: space-between;
-  margin-top: auto;
+  margin: auto 80px 40px;
   box-sizing: border-box;
 }
 
@@ -69,7 +66,6 @@
   font-weight: 500;
   line-height: 20px;
   color: #6f6f6f;
-  margin-top: auto;
-  margin-bottom: auto;
-  margin-right: 80px;
+  margin: auto 0;
+  align-items: flex-end;
 }

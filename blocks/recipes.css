@@ -29,6 +29,8 @@
   color: #fff;
 }
 
+/*According to the brief, the font-weight for recipes__subtitle is normal, there for I do not need to add it.*/
+
 .recipes__videos {
   display: flex;
   justify-content: center;
